@@ -71,25 +71,18 @@ Skill 自带一份按用途分类的资源目录：
 
 ## 🚀 使用方式
 
-安装到 Codex 后，直接在对话中说：
+把本仓库链接直接发给 Codex、Claude Code 或其他支持 Agent Skills 的 AI 智能体，并说“请一键安装这个 Skill”。智能体会从仓库中识别 `SKILL.md` 并安装所需内容。
 
 ```text
-使用 $da-da-da-xue-gao-xiao-bai-vibecoding-skill，帮我做一个……
+请一键安装这个 Skill：
+https://github.com/JiashengTian/da-da-da-xue-gao-xiao-bai-vibecoding-skill
 ```
 
-例如：
+安装完成后，直接这样开始：
 
 ```text
 使用 $da-da-da-xue-gao-xiao-bai-vibecoding-skill，
 我想做一个帮助我记录每日学习的手机网页，但我不知道要有哪些功能。
-```
-
-也可以让支持 GitHub Skill 安装的 Codex 助手安装此仓库，或用 Codex 自带安装器从仓库根目录安装并指定名称：
-
-```text
---repo JiashengTian/da-da-da-xue-gao-xiao-bai-vibecoding-skill \
---path . \
---name da-da-da-xue-gao-xiao-bai-vibecoding-skill
 ```
 
 ## 📁 文件说明
