@@ -1,0 +1,4 @@
+interface:
+  display_name: "大大大雪糕-小白 Vibecoding"
+  short_description: "面向零基础用户的需求澄清、调研、原型确认与分步交付流程"
+  default_prompt: "Use $da-da-da-xue-gao-xiao-bai-vibecoding-skill to help me turn my idea into a beginner-friendly app plan."
