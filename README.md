@@ -82,7 +82,7 @@ https://github.com/JiashengTian/da-da-da-xue-gao-xiao-bai-vibecoding-skill
 
 ```text
 使用 $da-da-da-xue-gao-xiao-bai-vibecoding-skill，
-我想做一个帮助我记录每日学习的手机网页，但我不知道要有哪些功能。
+我想做一个图书管理系统
 ```
 
 ## 📁 文件说明
